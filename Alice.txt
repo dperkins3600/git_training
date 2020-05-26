@@ -2,6 +2,6 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Let's add one in the middle.
 Here is another line in file Alice.txt
 Way to go Alice.
-
+Another in the middle.
 A new line for Alice.
 Another new line.
